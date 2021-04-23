@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Databases**
 
-- 💬 Ask me about **C#, Python, GO and Lua**
+- 💬 Ask me about **Python, GO and Lua**
 
 - 📫 Reach me via **martinsethas@gmail.com**
 
