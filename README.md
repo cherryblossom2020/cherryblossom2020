@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Martin</h1>
-<h3 align="center">A student developer studying in Torrance.</h3>
+<h3 align="center">Student developer studying in Torrance.</h3>
 
 - 🔭 I’m currently working on **Patreon perks automation**
 
