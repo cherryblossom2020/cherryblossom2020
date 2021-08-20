@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Databases**
 
-- 💬 Ask me about **Python, GO and Lua**
+- 💬 Ask me about **Python, C# and Lua**
 
-- 📫 Reach me via **martinsethas@gmail.com**
+- 📫 Reach me via **martin@cranberry.wtf**
 
 
 <h3 align="left">Languages and Tools:</h3>
