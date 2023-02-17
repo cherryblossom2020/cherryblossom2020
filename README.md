@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Marco | Arlo</h1>
+<h1 align="center">Hi 👋, I'm Arlo</h1>
 <h3 align="center">Web Designer</h3>
 
-- 🔭 I’m currently working on **Patreon perks automation**
+- 🔭 I’m currently working on **Cool Stuffs**
 
 - 🌱 I’m currently learning **Databases**
 
