@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Arlo</h1>
-<h3 align="center">Web Designer</h3>
+<h1 align="center">Hi 👋, I'm Marlo</h1>
+<h3 align="center">Web Designer / System Engineer / Solution Architect</h3>
 
 - 🔭 I’m currently working on **Cool Stuffs**
 
 - 🌱 I’m currently learning **Databases**
 
-- 💬 Ask me about **Py, C# and Lua**
+- 💬 Ask me about **Javascript, C# and Linux**
 
 - 📫 How to reach me **hello@marcokreativ.se**
 
