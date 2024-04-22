@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Marlo</h1>
+<h1 align="center">Hi 👋, I'm Marco</h1>
 <h3 align="center">Web Designer / System Engineer / Solution Architect</h3>
 
-- 🔭 I’m currently working on **Cool Stuffs**
+- 🔭 I’m currently working on **Cool Stuff**
 
 - 🌱 I’m currently learning **Databases**
 
