@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋 I'm Marlo!<br><br>I'm Designer, System Engineer, and Solution Architect
+Hi 👋 I'm Marlo!<br>I'm Designer, System Engineer, and Solution Architect<br>Currently exploring databases 
 
 
 ## 🌐 Contact:
